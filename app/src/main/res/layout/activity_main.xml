@@ -18,7 +18,7 @@
 
     <Button
         android:text="Hitung"
-        android:layout_width="wrap_content"
+        android:layout_width="354dp"
         android:layout_height="wrap_content"
         android:id="@+id/buttonHitung" />
 </LinearLayout>
